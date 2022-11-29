@@ -1,0 +1,9 @@
+- Pages memperesntasikan semua halaman nya mejadi routing 
+jadi apapun yang ada di pages sekalian menjadi routing
+
+
+
+- dependencies (production).
+- devDependensice (Development).
+
+- Pre-rendering (yang di render hanya halaman ysng dibutuhkan saja).
