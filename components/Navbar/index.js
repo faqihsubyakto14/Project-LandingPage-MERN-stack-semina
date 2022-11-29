@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import React, { useEffect, useState } from 'react';
 import Link from 'next/link';
-import NavLink from '../NavLink';
+import NavLink from '../Navlink';
 import { useRouter } from 'next/router';
 import Cookies from 'js-cookie';
 // import Button from '../Button';
